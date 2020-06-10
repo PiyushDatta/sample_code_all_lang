@@ -5,6 +5,8 @@ If your language is not supported, feel free to add it.
 
 ## Currently supported languges (alphabetical order)
 
+- [c](sample.c)
+- [c++](sample.cpp)
 - [css](sample.css)
 - [html](sample.html)
 - [javascript](sample.js)
