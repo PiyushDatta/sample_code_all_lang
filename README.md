@@ -8,6 +8,7 @@ If your language is not supported, feel free to add it.
 - [c](sample.c)
 - [c++](sample.cpp)
 - [css](sample.css)
+- [go](sample.go)
 - [html](sample.html)
 - [javascript](sample.js)
 - [python](sample.py)
