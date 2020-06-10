@@ -6,6 +6,9 @@ struct Sample {
 }
 
 impl Sample {
+    /*
+      multi-line comment
+    */
     pub fn new() -> Sample {
         Sample { id: 3, extra: 2 }
     }
@@ -20,6 +23,7 @@ pub enum WaitTimeout {
     Millis(u64),
 }
 
+// regular comment
 fn main() {
     let mut map1 = HashMap::new();
     map1.insert("hello", "world");
