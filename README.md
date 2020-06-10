@@ -12,3 +12,4 @@ If your language is not supported, feel free to add it.
 - [html](sample.html)
 - [javascript](sample.js)
 - [python](sample.py)
+- [rust](sample.rs)
