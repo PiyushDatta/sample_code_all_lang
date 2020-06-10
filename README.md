@@ -10,6 +10,7 @@ If your language is not supported, feel free to add it.
 - [css](sample.css)
 - [go](sample.go)
 - [html](sample.html)
+- [java](sample.java)
 - [javascript](sample.js)
 - [python](sample.py)
 - [rust](sample.rs)
