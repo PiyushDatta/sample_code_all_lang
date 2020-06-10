@@ -1,0 +1,10 @@
+/.idea/
+/cmake-build-debug/
+/out/
+/.vscode/
+/build/
+/__pycache__/
+/.venv/
+/nn_saved_weights/
+/saved_results/
+/.mypy_cache/
